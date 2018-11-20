@@ -49,7 +49,7 @@ banner
     margin-top: -170px;
     height: 939px;
     width: 100%;
-    background: url("../../noithat1/images/banner.jpg") top center;
+    background: url("../../noithat/images/banner.jpg") top center;
     display: table;
 }
 .banner h1 {
@@ -71,9 +71,7 @@ banner
     margin-left: auto;
     margin-right: auto;
 }
-.row .photo {
-    margin-left: 270px;
-}
+
 footer {
     background: linear-gradient(to right, #f48146 50%, #ffffff 50%);
 }
